@@ -14,3 +14,6 @@ The original bundle was created on 2025-08-04. Any tampering with the original .
 > This folder and its file were recreated on 2025-08-05 for verification purposes.  
 > The content of the bundle matches the original project state as verified by commit history and associated hashes.  
 > Please use the current repository state for all integrity and signature verifications.
+
+> 📌 P.S. Notice
+> Corrected signed files. Previous signature was made on the wrong content
